@@ -11,6 +11,7 @@ export default function Home() {
           name="description"
           content="Welcome to Next.js practice home page"
         ></meta>
+        <meta name="keywords" content="next.js, practice"></meta>
       </Head>
       <h1>Hello, Next.js!</h1>
       <p>Welcome to the practice home page</p>

@@ -7,6 +7,7 @@ export default function () {
       <Head>
         <title>This is about page</title>
         <meta name="description" content="This is about page"></meta>
+        <meta name="keywords" content="about, vinodh"></meta>
       </Head>
       <h1>About Vinodh Thangavel</h1>
       <p>My name is Vinodh, I love my son Pranav very much</p>
